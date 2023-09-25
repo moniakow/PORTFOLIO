@@ -31,9 +31,10 @@
   * JavaScript
   * Visual Code Studio
 * **Current position:**
-  * JIRA
-  * Confluence 
-  * Manual Testing of inhouse software
+  * Test Case Creation (JIRA)
+  * Manual Test Execution
+  * Business Analysis in inhouse Software Development
+  * Confluence
 
 ### LinkedIn page: 
 https://pl.linkedin.com/in/monikamata 
